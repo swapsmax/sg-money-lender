@@ -1,27 +1,25 @@
-/*-----------------------------------------------------------------------------------
+@media (min-width: 576px) {
+  .rounded-nav {
+    border-radius: 50rem !important;
+  }
+}
 
-    Template Name: Start
-    Template URI: UIdeck.com
-    Description: Start | Landing Page for Startup and SaaS Business
-    Author: Uideck
-    Author URI: https://uideck.com/
-    Support: https://uideck.com/support/
-    Version: 1.0
+@media (min-width: 576px) {
+  .rounded-nav .nav-link {
+    border-radius: 50rem !important;
+  }
+}
 
------------------------------------------------------------------------------------
 
-    CSS INDEX
-    ===================
 
-    01. Theme default CSS
-	02. Header
-    03. Hero
-	04. Footer
+.nav-pills .nav-link {
+  color: #555;
+}
+.text-uppercase {
+  letter-spacing: 0.1em;
+}
 
------------------------------------------------------------------------------------*/
-/*===========================
-    1. COMMON css 
-===========================*/
+
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
   font-family: "Poppins", sans-serif;
