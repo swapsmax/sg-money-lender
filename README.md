@@ -38,7 +38,7 @@ SG Money Lender is a website for a money lending service in Singapore (NOT REAL)
 
 
 
-### Built With (TO BE UPDARED)
+### Built With (TO BE UPDATED)
 
 Here is a list of softwares and languages used in the development of the web app.
 
