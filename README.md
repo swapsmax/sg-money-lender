@@ -15,7 +15,7 @@
     Your everyday READEME file for the SG Money Lender project.
     <br />
     This is a sample website created for a CS2024 project in Nanyang Technological University.<br>
-    <a href="https://swapsmax.github.io/sg-money-lender/index.html"><strong>Click here to visit the website</strong></a>
+    <a href="https://swapsmax.github.io/sg-money-lender/index.html" target="_blank"><strong>Click here to visit the website</strong></a>
     <br />
     <br />
     ·
